@@ -30,7 +30,7 @@ exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx-basic-ng'
 
 html_theme_options = {
     "show_sidebar": False,
