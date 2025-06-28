@@ -15,14 +15,6 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Amazon Smart'
-copyright = '2025, Your Name or Company'
-author = 'Your Name or Team'
-html_static_path = ['_static']
-html_css_files = ['style.css']
-
-# The full version, including alpha/beta/rc tags
-release = '1.0.0'
 # -- Project information -----------------------------------------------------
 
 project = 'Amazon Smart'
@@ -41,10 +33,10 @@ exclude_patterns = []
 html_theme = 'sphinx_basic_ng'
 
 html_theme_options = {
-    "show_sidebar": False,   # remove sidebar
+    "show_sidebar": False,
     "show_relbar_top": False,
     "show_relbar_bottom": False,
-    "content_max_width": "100%",   # full-width content
+    "content_max_width": "100%",
 }
 
 html_static_path = ['_static']
