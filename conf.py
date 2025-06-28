@@ -23,20 +23,35 @@ html_css_files = ['style.css']
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
+# -- Project information -----------------------------------------------------
+
+project = 'Amazon Smart'
+copyright = '2025'
+author = 'Your Name'
 
 # -- General configuration ---------------------------------------------------
 
-# Add any Sphinx extension module names here, as strings. 
-# These extensions are optional but useful for Read the Docs.
+extensions = []
 
+templates_path = ['_templates']
+exclude_patterns = []
 
-# Add any paths that contain templates here, relative to this directory.
-# templates_path = ['_templates']
+# -- Options for HTML output -------------------------------------------------
 
-# List of patterns, relative to source directory, that match files and
-# directories to ignore when looking for source files.
-# This pattern also affects html_static_path and html_extra_path.
-# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+html_theme = 'sphinx_basic_ng'
+
+html_theme_options = {
+    "show_sidebar": False,   # remove sidebar
+    "show_relbar_top": False,
+    "show_relbar_bottom": False,
+    "content_max_width": "100%",   # full-width content
+}
+
+html_static_path = ['_static']
+html_css_files = [
+    'style.css',
+]
+
 
 # -- Options for HTML output -------------------------------------------------
 
