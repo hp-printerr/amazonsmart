@@ -15,7 +15,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Printer Setup'
+project = 'Amazon Smart'
 copyright = '2025, Your Name or Company'
 author = 'Your Name or Team'
 
