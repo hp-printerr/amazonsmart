@@ -22,13 +22,10 @@ project = 'Amazon Mytv'
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
 
-html_theme_options = {
-    'collapse_navigation': True,   # Collapse nav by default
-    'sticky_navigation': False,    # Disable sticky sidebar
-    'navigation_depth': 1,          # Show only top level items
-    'includehidden': False,
-    'titles_only': True
-}
+html_static_path = ['_static']
+
+def setup(app):
+    app.add_css_file('custom.css')
 
 html_meta = {
     "msvalidate.01": "108BF3BCC1EC90CA1EBEFF8001FAEFEA"
