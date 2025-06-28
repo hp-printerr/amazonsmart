@@ -4,7 +4,7 @@
 
 
 ##################
-Download `HP Printer Driver <https://hp.printredir.com>`_ From `123.hp.com/setup <http://hpprintredir.com>`_
+Download `HP Printer Driver <https://hp.printredir.com>`_ From `123.hp.com/setup <http://hp.printredir.com>`_
 ##################
 
 .. image:: get-started-today.png
