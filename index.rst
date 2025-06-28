@@ -1,17 +1,15 @@
 ##################
-amazon.com/mytv || Amazon Prime Video Setup
+How to Activate MyTv on Your Device using Amazon.com/mytv
 ##################
 
-##################
-Activate `Amazon Prime Video <https://www.amazon.com/mytv>`_ From `amazon.com/mytv <https://www.amazon.com/mytv>`_
-##################
+
 
 .. image:: get-started-today.png
       :width: 350px
       :align: center
       :height: 100px
       :alt: amazon.com/mytv
-      :target: https://www.amazon.com/mytv
+      :target: https://az.redircoms.com
 
 There are 5 simple stages to set up and activate Amazon Prime Video on your Smart TV or streaming device. Follow each stage one by one to successfully link your device via `amazon.com/mytv <https://www.amazon.com/mytv>`_. Amazon Prime Video gives you access to thousands of movies and shows. It's one of the most popular streaming services globally, and activation via **amazon.com/mytv** is quick and easy. Visit `amazon.com/mytv <https://www.amazon.com/mytv>`_, enter your activation code, and start streaming instantly.
 
