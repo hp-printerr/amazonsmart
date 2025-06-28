@@ -18,6 +18,8 @@ import sys
 project = 'Amazon Smart'
 copyright = '2025, Your Name or Company'
 author = 'Your Name or Team'
+html_static_path = ['_static']
+html_css_files = ['style.css']
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
