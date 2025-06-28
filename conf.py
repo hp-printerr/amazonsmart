@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Amazon Smart'
+project = 'Amazon Mytv'
 
 
 # The full version, including alpha/beta/rc tags
