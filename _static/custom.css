@@ -1,0 +1,9 @@
+.wy-side-nav-search,
+.wy-nav-side {
+    display: none !important;
+}
+
+.wy-nav-content {
+    margin: 0 auto !important;
+    max-width: 100% !important;
+}
