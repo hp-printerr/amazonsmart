@@ -1,2 +1,2 @@
 sphinx
-sphinx-basic-ng
+sphinx-basic-ng>=0.4.0,<1.0
