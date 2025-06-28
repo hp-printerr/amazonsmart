@@ -1,2 +1,2 @@
 sphinx
-sphinx-basic-ng-0.0.1a12
+sphinx-basic-ng
