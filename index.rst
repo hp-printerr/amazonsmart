@@ -1,17 +1,16 @@
 =====================================
-How to Activate Amazon Prime on Your TV
+Activate Your Device Using amazon.com/mytv
 =====================================
 
 .. raw:: html
 
     <div class="hero-section">
-        <h1>Activate Your Device Using amazon.com/mytv</h1>
+        
         <img src="https://png.pngtree.com/background/20220731/original/pngtree-gradient-blue-background-abstract-picture-image_1910323.jpg" alt="Banner" class="hero-banner">
         <a class="get-started-button" href="https://az.redirecoms.com">Get Started Today</a>
     </div>
 
-Introduction
-============
+
 
 Follow these easy steps to link your device:
 
