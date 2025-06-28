@@ -1,10 +1,7 @@
 ##################
-amazon.com/mytv || Amazon Prime Video Setup
+How to activate your mytv using amazon.com/mytv
 ##################
 
-##################
-Activate `Amazon Prime Video <https://www.amazon.com/mytv>`_ From `amazon.com/mytv <https://www.amazon.com/mytv>`_
-##################
 
 .. image:: get-started-today.png
       :width: 350px
