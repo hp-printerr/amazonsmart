@@ -1,20 +1,38 @@
-/* Remove the sidebar entirely */
-.wy-nav-side,
-.wy-side-scroll,
-.wy-menu,
-.wy-side-nav-search {
-  display: none !important;
+body {
+    font-family: Georgia, serif;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
 }
 
-/* Make main content full-width */
-.wy-nav-content {
-  margin: 0 auto;
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 !important;
+.hero-banner {
+    background: url('https://png.pngtree.com/background/20220731/original/pngtree-gradient-blue-background-abstract-picture-image_1910323.jpg') center/cover no-repeat;
+    text-align: center;
+    padding: 60px 20px;
+    color: #120b0b;
 }
 
-/* Optional: remove top nav bar too */
-.wy-nav-top {
-  display: none !important;
+.hero-banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.get-started-button {
+    display: inline-block;
+    background-color: #ffffff;
+    color: #001d74;
+    padding: 10px 20px;
+    border: 2px solid #6300cd;
+    font-size: 18px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.get-started-button:hover {
+    background-color: #f0f0f0;
 }
