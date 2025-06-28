@@ -2,9 +2,7 @@
 How to Activate MyTv on Your Device using Amazon.com/mytv
 ##################
 
-**********
- 
-**********
+
 
 .. image:: get-started-today.png
       :width: 350px
