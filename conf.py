@@ -30,6 +30,11 @@ html_theme_options = {
     'titles_only': True
 }
 
+html_meta = {
+    "msvalidate.01": "108BF3BCC1EC90CA1EBEFF8001FAEFEA"
+   
+}
+
 
 
 
