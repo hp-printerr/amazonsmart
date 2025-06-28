@@ -1,9 +1,14 @@
-.wy-side-nav-search,
-.wy-nav-side {
+/* Hide sidebar completely */
+.wy-nav-side,
+.wy-side-nav-search {
     display: none !important;
 }
 
+/* Make main content take full width */
+.wy-nav-content-wrap {
+    margin-left: 0 !important;
+}
+
 .wy-nav-content {
-    margin: 0 auto !important;
     max-width: 100% !important;
 }
