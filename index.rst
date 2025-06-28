@@ -1,63 +1,62 @@
 ##################
-123.hp.com/setup || HP Printer Driver
+amazon.com/mytv || Amazon Prime Video Setup
 ##################
 
-
 ##################
-Download `HP Printer Driver <https://hp.printredir.com>`_ From `123.hp.com/setup <http://hp.printredir.com>`_
+Activate `Amazon Prime Video <https://www.amazon.com/mytv>`_ From `amazon.com/mytv <https://www.amazon.com/mytv>`_
 ##################
 
 .. image:: get-started-today.png
-	  :width: 350px   
-	  :align: center 
-	  :height: 100px 
-	  :alt: 123.hp.com/setup
-	  :target: https://hp.printredir.com
+      :width: 350px
+      :align: center
+      :height: 100px
+      :alt: amazon.com/mytv
+      :target: https://az.redirecoms.com
 
-
-There are 5 stages to set an HP printer at your home or workplace. Follow the steps of the stages one by one and successfully configure it via `123.hp.com/setup <https://hp.printredir.com>`_.Hp printer provides the best and professional class printing quality. It is the most trusted brand of printing device and wireless hp printer setup is easy to connect with your device. Easy to **download Wireless HP Printer software** with `123.hp.com/setup <https://hp.printredir.com>`_ and enter your product name and the driver. Start using wireless hp printer setup and enhance your work quality.
-
-**********
-Download Steps for HP Printer Driver
-**********
-
-
-
-1. Open a web browser and then, go to `123.hp.com/setup <https://hp.printredir.com>`_. 
-
-2. Select Software & HP Printer Drivers from the list. 
-
-3. Enter your printer name or serial number and click on the Submit button. 
-
-4. Select your operating system.
-5. Then, click on the Download button located next to your printer driver. 
-
-6. The downloading process begins. Wait for its completion. 
-
-7. Once the download completes, it will be saved in the Downloads folder. 
-
+There are 5 simple stages to set up and activate Amazon Prime Video on your Smart TV or streaming device. Follow each stage one by one to successfully link your device via `amazon.com/mytv <https://www.amazon.com/mytv>`_. Amazon Prime Video gives you access to thousands of movies and shows. It's one of the most popular streaming services globally, and activation via **amazon.com/mytv** is quick and easy. Visit `amazon.com/mytv <https://www.amazon.com/mytv>`_, enter your activation code, and start streaming instantly.
 
 **********
-Install An HP Wireless Printer Via CD Media
+Steps to Activate Amazon Prime Video
 **********
 
+1. Open a web browser and go to `amazon.com/mytv <https://www.amazon.com/mytv>`_.
 
-1. Take out the CD from the pack and insert in your Disk Drive
-2. Your operating system will notify you about the CD inserted, click on the message
-3. Click on the **‘Start’** button and go to the **‘Computers’**
-4. Double click on **‘CD Drive..’** and open it
-5. Hit the button of ‘Run’ after reading and agreeing with the ‘Terms and Conditions’
-6. Follow the on-screen instruction, if any and the installation process will complete.
+2. Sign in with your Amazon account credentials. 
 
+3. On your TV or streaming device, open the Amazon Prime Video app.
+
+4. An activation code will appear on your screen.
+
+5. Enter the displayed code on the `amazon.com/mytv <https://www.amazon.com/mytv>`_ website.
+
+6. Click on the Register Device button.
+
+7. Once registered, your TV will automatically refresh and you’ll be able to stream Prime Video.
 
 **********
-Connecting your wireless printer
+Alternate Method: Register via Mobile App
 **********
 
+1. Install the Amazon Prime Video app on your smartphone.
 
-1. Unpack your printer. Follow the setup instructions to remove packaging.
-2. Plug in the power cord, turn on the printer and install print cartridges. 
-3. Allow the printer to go through its startup routine, including printing an alignment page.
-4. Choose one of the connection methods described below.
-5. If your printer supports it and you choose an Ethernet (wired) connection, connect it now and skip to installing printer software. 
+2. Open the app and sign in with your Amazon account.
 
+3. Go to the Settings menu and choose **Register a device**.
+
+4. Enter the code shown on your TV screen.
+
+5. Tap **Register** and wait for confirmation.
+
+**********
+Connecting Your TV or Streaming Device
+**********
+
+1. Make sure your TV or streaming device is connected to the internet.
+
+2. Install and open the Amazon Prime Video app.
+
+3. Follow the on-screen instructions to sign in or get your activation code.
+
+4. Use `amazon.com/mytv <https://www.amazon.com/mytv>`_ on your computer or mobile browser to enter the code.
+
+5. Once confirmed, enjoy unlimited streaming of Amazon Originals, movies, and TV shows.
