@@ -1,16 +1,7 @@
-=====================================
-How to Activate Amazon Prime on Your TV
-=====================================
+Welcome to Amazon Activation Help
+=================================
 
-.. raw:: html
-
-    <div class="hero-banner">
-        <h1>Activate Your Device Using amazon.com/mytv</h1>
-        <a class="get-started-button" href="https://az.redirecoms.com">Get Started Today</a>
-    </div>
-
-Activation Steps
-=================
+Follow these steps to activate your device:
 
 1. Open the Amazon Prime Video app on your TV or device.
 2. Sign in to your Amazon account if prompted.
